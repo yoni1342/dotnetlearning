@@ -1,0 +1,15 @@
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task1/StudentGradeCalculator/bin/Debug/net7.0/StudentGradeCalculator
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task1/StudentGradeCalculator/bin/Debug/net7.0/StudentGradeCalculator.deps.json
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task1/StudentGradeCalculator/bin/Debug/net7.0/StudentGradeCalculator.runtimeconfig.json
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task1/StudentGradeCalculator/bin/Debug/net7.0/StudentGradeCalculator.dll
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task1/StudentGradeCalculator/bin/Debug/net7.0/StudentGradeCalculator.pdb
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task1/StudentGradeCalculator/obj/Debug/net7.0/StudentGradeCalculator.csproj.AssemblyReference.cache
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task1/StudentGradeCalculator/obj/Debug/net7.0/StudentGradeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task1/StudentGradeCalculator/obj/Debug/net7.0/StudentGradeCalculator.AssemblyInfoInputs.cache
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task1/StudentGradeCalculator/obj/Debug/net7.0/StudentGradeCalculator.AssemblyInfo.cs
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task1/StudentGradeCalculator/obj/Debug/net7.0/StudentGradeCalculator.csproj.CoreCompileInputs.cache
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task1/StudentGradeCalculator/obj/Debug/net7.0/StudentGradeCalculator.dll
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task1/StudentGradeCalculator/obj/Debug/net7.0/refint/StudentGradeCalculator.dll
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task1/StudentGradeCalculator/obj/Debug/net7.0/StudentGradeCalculator.pdb
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task1/StudentGradeCalculator/obj/Debug/net7.0/StudentGradeCalculator.genruntimeconfig.cache
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task1/StudentGradeCalculator/obj/Debug/net7.0/ref/StudentGradeCalculator.dll

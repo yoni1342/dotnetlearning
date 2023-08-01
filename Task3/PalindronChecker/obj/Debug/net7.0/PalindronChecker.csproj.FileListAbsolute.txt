@@ -1,0 +1,15 @@
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task3/PalindronChecker/bin/Debug/net7.0/PalindronChecker
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task3/PalindronChecker/bin/Debug/net7.0/PalindronChecker.deps.json
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task3/PalindronChecker/bin/Debug/net7.0/PalindronChecker.runtimeconfig.json
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task3/PalindronChecker/bin/Debug/net7.0/PalindronChecker.dll
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task3/PalindronChecker/bin/Debug/net7.0/PalindronChecker.pdb
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task3/PalindronChecker/obj/Debug/net7.0/PalindronChecker.csproj.AssemblyReference.cache
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task3/PalindronChecker/obj/Debug/net7.0/PalindronChecker.GeneratedMSBuildEditorConfig.editorconfig
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task3/PalindronChecker/obj/Debug/net7.0/PalindronChecker.AssemblyInfoInputs.cache
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task3/PalindronChecker/obj/Debug/net7.0/PalindronChecker.AssemblyInfo.cs
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task3/PalindronChecker/obj/Debug/net7.0/PalindronChecker.csproj.CoreCompileInputs.cache
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task3/PalindronChecker/obj/Debug/net7.0/PalindronChecker.dll
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task3/PalindronChecker/obj/Debug/net7.0/refint/PalindronChecker.dll
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task3/PalindronChecker/obj/Debug/net7.0/PalindronChecker.pdb
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task3/PalindronChecker/obj/Debug/net7.0/PalindronChecker.genruntimeconfig.cache
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task3/PalindronChecker/obj/Debug/net7.0/ref/PalindronChecker.dll

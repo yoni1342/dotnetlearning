@@ -1,0 +1,15 @@
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task2/WordFrequencyCount/bin/Debug/net7.0/WordFrequencyCount
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task2/WordFrequencyCount/bin/Debug/net7.0/WordFrequencyCount.deps.json
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task2/WordFrequencyCount/bin/Debug/net7.0/WordFrequencyCount.runtimeconfig.json
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task2/WordFrequencyCount/bin/Debug/net7.0/WordFrequencyCount.dll
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task2/WordFrequencyCount/bin/Debug/net7.0/WordFrequencyCount.pdb
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task2/WordFrequencyCount/obj/Debug/net7.0/WordFrequencyCount.csproj.AssemblyReference.cache
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task2/WordFrequencyCount/obj/Debug/net7.0/WordFrequencyCount.GeneratedMSBuildEditorConfig.editorconfig
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task2/WordFrequencyCount/obj/Debug/net7.0/WordFrequencyCount.AssemblyInfoInputs.cache
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task2/WordFrequencyCount/obj/Debug/net7.0/WordFrequencyCount.AssemblyInfo.cs
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task2/WordFrequencyCount/obj/Debug/net7.0/WordFrequencyCount.csproj.CoreCompileInputs.cache
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task2/WordFrequencyCount/obj/Debug/net7.0/WordFrequencyCount.dll
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task2/WordFrequencyCount/obj/Debug/net7.0/refint/WordFrequencyCount.dll
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task2/WordFrequencyCount/obj/Debug/net7.0/WordFrequencyCount.pdb
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task2/WordFrequencyCount/obj/Debug/net7.0/WordFrequencyCount.genruntimeconfig.cache
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task2/WordFrequencyCount/obj/Debug/net7.0/ref/WordFrequencyCount.dll
