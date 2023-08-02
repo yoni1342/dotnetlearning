@@ -1,0 +1,15 @@
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task4/ShapeHierarchy/bin/Debug/net7.0/ShapeHierarchy
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task4/ShapeHierarchy/bin/Debug/net7.0/ShapeHierarchy.deps.json
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task4/ShapeHierarchy/bin/Debug/net7.0/ShapeHierarchy.runtimeconfig.json
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task4/ShapeHierarchy/bin/Debug/net7.0/ShapeHierarchy.dll
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task4/ShapeHierarchy/bin/Debug/net7.0/ShapeHierarchy.pdb
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task4/ShapeHierarchy/obj/Debug/net7.0/ShapeHierarchy.csproj.AssemblyReference.cache
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task4/ShapeHierarchy/obj/Debug/net7.0/ShapeHierarchy.GeneratedMSBuildEditorConfig.editorconfig
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task4/ShapeHierarchy/obj/Debug/net7.0/ShapeHierarchy.AssemblyInfoInputs.cache
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task4/ShapeHierarchy/obj/Debug/net7.0/ShapeHierarchy.AssemblyInfo.cs
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task4/ShapeHierarchy/obj/Debug/net7.0/ShapeHierarchy.csproj.CoreCompileInputs.cache
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task4/ShapeHierarchy/obj/Debug/net7.0/ShapeHierarchy.dll
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task4/ShapeHierarchy/obj/Debug/net7.0/refint/ShapeHierarchy.dll
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task4/ShapeHierarchy/obj/Debug/net7.0/ShapeHierarchy.pdb
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task4/ShapeHierarchy/obj/Debug/net7.0/ShapeHierarchy.genruntimeconfig.cache
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task4/ShapeHierarchy/obj/Debug/net7.0/ref/ShapeHierarchy.dll
