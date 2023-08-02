@@ -1,5 +1,3 @@
-using System;
-using ShapeHerarchy;
 using Xunit;
 
 namespace ShapeHerarchy.Tests
@@ -10,20 +8,20 @@ namespace ShapeHerarchy.Tests
         public void Circle_CalculateArea_ShouldReturnCorrectArea()
         {
             // Arrange
-            Circle circle = new Circle { Name = "Circle", Radius = 5 };
+            Circle circle = new Circle("Circle", 5);
 
             // Act
             double area = circle.CalculateArea();
 
             // Assert
-            Assert.Equal(Math.PI * 25, area);
+            Assert.Equal(78.53981633974483, area);
         }
 
         [Fact]
         public void Rectangle_CalculateArea_ShouldReturnCorrectArea()
         {
             // Arrange
-            Rectangle rectangle = new Rectangle { Name = "Rectangle", Width = 4, Height = 6 };
+            Rectangle rectangle = new Rectangle("Rectangle", 4, 6);
 
             // Act
             double area = rectangle.CalculateArea();
@@ -36,7 +34,7 @@ namespace ShapeHerarchy.Tests
         public void Triangle_CalculateArea_ShouldReturnCorrectArea()
         {
             // Arrange
-            Triangle triangle = new Triangle { Name = "Triangle", Base = 3, Height = 7 };
+            Triangle triangle = new Triangle("Triangle", 3, 7);
 
             // Act
             double area = triangle.CalculateArea();

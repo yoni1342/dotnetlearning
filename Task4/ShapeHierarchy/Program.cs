@@ -2,8 +2,13 @@
 using System;
 public class Shape
 {
+    // Constructor
+    public Shape(string name)
+    {
+        Name = name;
+    }
     // Properties
-    public string Name { get; init; }
+    public string Name { get; private set; }
 
     // Methods
     public virtual double CalculateArea()
@@ -14,8 +19,13 @@ public class Shape
 
 public class Circle : Shape
 {
+    // Constructor
+    public Circle(string name, double radius) : base(name)
+    {
+        Radius = radius;
+    }
     // Properties
-    public double Radius { get; init; }
+    public double Radius { get; private set; }
 
     // Methods
     public override double CalculateArea()
@@ -24,11 +34,17 @@ public class Circle : Shape
     }
 }
 
-public class Rectangle : Shape
+public class Rectangle : Shape 
 {
+    // Constructor
+    public Rectangle(string name, double width, double height) : base(name)
+    {
+        Width = width;
+        Height = height;
+    }
     // Properties
-    public double Width { get; init; }
-    public double Height { get; init; }
+    public double Width { get; private set; }
+    public double Height { get; private set; }
 
     // Methods
     public override double CalculateArea()
@@ -39,9 +55,15 @@ public class Rectangle : Shape
 
 public class Triangle : Shape
 {
+    // Constructor
+    public Triangle(string name, double @base, double height) : base(name)
+    {
+        Base = @base;
+        Height = height;
+    }
     // Properties
-    public double Base { get; init; }
-    public double Height { get; init; }
+    public double Base { get; private set; }
+    public double Height { get; private set; }
 
     // Methods
     public override double CalculateArea()
@@ -59,9 +81,9 @@ public class Program
 
     public static void Main()
     {
-        Circle circle = new Circle { Name = "Circle", Radius = 5 };
-        Rectangle rectangle = new Rectangle { Name = "Rectangle", Width = 4, Height = 6 };
-        Triangle triangle = new Triangle { Name = "Triangle", Base = 3, Height = 7 };
+        Shape circle = new Circle ("Circle", 5 );
+        Shape rectangle = new Rectangle("Rectangle", 4, 6 );
+        Shape triangle = new Triangle ("Triangle", 3, 7 );
 
         PrintShapeArea(circle);
         PrintShapeArea(rectangle);
