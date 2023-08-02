@@ -1,5 +1,5 @@
-﻿using System;
-
+﻿namespace ShapeHerarchy;
+using System;
 public class Shape
 {
     // Properties

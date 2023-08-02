@@ -1,0 +1,15 @@
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task5/LibraryCatalog/obj/Debug/net7.0/LibraryCatalog.csproj.AssemblyReference.cache
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task5/LibraryCatalog/obj/Debug/net7.0/LibraryCatalog.GeneratedMSBuildEditorConfig.editorconfig
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task5/LibraryCatalog/obj/Debug/net7.0/LibraryCatalog.AssemblyInfoInputs.cache
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task5/LibraryCatalog/obj/Debug/net7.0/LibraryCatalog.AssemblyInfo.cs
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task5/LibraryCatalog/obj/Debug/net7.0/LibraryCatalog.csproj.CoreCompileInputs.cache
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task5/LibraryCatalog/bin/Debug/net7.0/LibraryCatalog
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task5/LibraryCatalog/bin/Debug/net7.0/LibraryCatalog.deps.json
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task5/LibraryCatalog/bin/Debug/net7.0/LibraryCatalog.runtimeconfig.json
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task5/LibraryCatalog/bin/Debug/net7.0/LibraryCatalog.dll
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task5/LibraryCatalog/bin/Debug/net7.0/LibraryCatalog.pdb
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task5/LibraryCatalog/obj/Debug/net7.0/LibraryCatalog.dll
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task5/LibraryCatalog/obj/Debug/net7.0/refint/LibraryCatalog.dll
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task5/LibraryCatalog/obj/Debug/net7.0/LibraryCatalog.pdb
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task5/LibraryCatalog/obj/Debug/net7.0/LibraryCatalog.genruntimeconfig.cache
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task5/LibraryCatalog/obj/Debug/net7.0/ref/LibraryCatalog.dll
