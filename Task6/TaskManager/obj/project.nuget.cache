@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3B08kYdlCsre1lpfWnFBDDbikuTJzWju6HOpczpVCYGsncZ6w8iZ8g/xZY+bdhJ78vY3BHpZiXhcjzx42RhOqQ==",
+  "success": true,
+  "projectFilePath": "/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task6/TaskManager/TaskManager.csproj",
+  "expectedPackageFiles": [
+    "/home/yonatantesfaye/.nuget/packages/csvhelper/30.0.1/csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

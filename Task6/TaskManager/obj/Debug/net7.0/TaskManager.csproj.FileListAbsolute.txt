@@ -1,0 +1,17 @@
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task6/TaskManager/obj/Debug/net7.0/TaskManager.csproj.AssemblyReference.cache
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task6/TaskManager/obj/Debug/net7.0/TaskManager.GeneratedMSBuildEditorConfig.editorconfig
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task6/TaskManager/obj/Debug/net7.0/TaskManager.AssemblyInfoInputs.cache
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task6/TaskManager/obj/Debug/net7.0/TaskManager.AssemblyInfo.cs
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task6/TaskManager/obj/Debug/net7.0/TaskManager.csproj.CoreCompileInputs.cache
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task6/TaskManager/bin/Debug/net7.0/TaskManager
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task6/TaskManager/bin/Debug/net7.0/TaskManager.deps.json
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task6/TaskManager/bin/Debug/net7.0/TaskManager.runtimeconfig.json
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task6/TaskManager/bin/Debug/net7.0/TaskManager.dll
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task6/TaskManager/bin/Debug/net7.0/TaskManager.pdb
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task6/TaskManager/obj/Debug/net7.0/TaskManager.dll
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task6/TaskManager/obj/Debug/net7.0/refint/TaskManager.dll
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task6/TaskManager/obj/Debug/net7.0/TaskManager.pdb
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task6/TaskManager/obj/Debug/net7.0/TaskManager.genruntimeconfig.cache
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task6/TaskManager/obj/Debug/net7.0/ref/TaskManager.dll
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task6/TaskManager/bin/Debug/net7.0/CsvHelper.dll
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task6/TaskManager/obj/Debug/net7.0/TaskManager.csproj.CopyComplete
