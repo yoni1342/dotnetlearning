@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VJZsu+JVITNL5jWsPO7J2NrlMeYjUK1kGexq6xLw9/qOHH3bS1QHRPwSmHCBuemHmHAusUhMnqeBSAjb6gVwGw==",
+  "success": true,
+  "projectFilePath": "/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/Task7/StudentManagement/StudentManagement.csproj",
+  "expectedPackageFiles": [
+    "/home/yonatantesfaye/.nuget/packages/erroror/1.2.1/erroror.1.2.1.nupkg.sha512",
+    "/home/yonatantesfaye/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/home/yonatantesfaye/.nuget/packages/oneof/3.0.255/oneof.3.0.255.nupkg.sha512"
+  ],
+  "logs": []
+}
