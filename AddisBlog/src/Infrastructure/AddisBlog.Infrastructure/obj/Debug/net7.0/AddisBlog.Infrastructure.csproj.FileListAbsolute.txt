@@ -1,0 +1,17 @@
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/AddisBlog/src/Infrastructure/AddisBlog.Infrastructure/bin/Debug/net7.0/AddisBlog.Infrastructure.deps.json
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/AddisBlog/src/Infrastructure/AddisBlog.Infrastructure/bin/Debug/net7.0/AddisBlog.Infrastructure.dll
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/AddisBlog/src/Infrastructure/AddisBlog.Infrastructure/bin/Debug/net7.0/AddisBlog.Infrastructure.pdb
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/AddisBlog/src/Infrastructure/AddisBlog.Infrastructure/obj/Debug/net7.0/AddisBlog.Infrastructure.csproj.AssemblyReference.cache
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/AddisBlog/src/Infrastructure/AddisBlog.Infrastructure/obj/Debug/net7.0/AddisBlog.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/AddisBlog/src/Infrastructure/AddisBlog.Infrastructure/obj/Debug/net7.0/AddisBlog.Infrastructure.AssemblyInfoInputs.cache
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/AddisBlog/src/Infrastructure/AddisBlog.Infrastructure/obj/Debug/net7.0/AddisBlog.Infrastructure.AssemblyInfo.cs
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/AddisBlog/src/Infrastructure/AddisBlog.Infrastructure/obj/Debug/net7.0/AddisBlog.Infrastructure.csproj.CoreCompileInputs.cache
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/AddisBlog/src/Infrastructure/AddisBlog.Infrastructure/obj/Debug/net7.0/AddisBlog.Infrastructure.dll
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/AddisBlog/src/Infrastructure/AddisBlog.Infrastructure/obj/Debug/net7.0/refint/AddisBlog.Infrastructure.dll
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/AddisBlog/src/Infrastructure/AddisBlog.Infrastructure/obj/Debug/net7.0/AddisBlog.Infrastructure.pdb
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/AddisBlog/src/Infrastructure/AddisBlog.Infrastructure/obj/Debug/net7.0/ref/AddisBlog.Infrastructure.dll
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/AddisBlog/src/Infrastructure/AddisBlog.Infrastructure/bin/Debug/net7.0/AddisBlog.Application.dll
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/AddisBlog/src/Infrastructure/AddisBlog.Infrastructure/bin/Debug/net7.0/AddisBlog.Domain.dll
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/AddisBlog/src/Infrastructure/AddisBlog.Infrastructure/bin/Debug/net7.0/AddisBlog.Application.pdb
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/AddisBlog/src/Infrastructure/AddisBlog.Infrastructure/bin/Debug/net7.0/AddisBlog.Domain.pdb
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/AddisBlog/src/Infrastructure/AddisBlog.Infrastructure/obj/Debug/net7.0/AddisBlog.Infrastructure.csproj.CopyComplete

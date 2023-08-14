@@ -1,0 +1,15 @@
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/AddisBlog/src/Core/AddisBlog.Application/bin/Debug/net7.0/AddisBlog.Application.deps.json
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/AddisBlog/src/Core/AddisBlog.Application/bin/Debug/net7.0/AddisBlog.Application.dll
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/AddisBlog/src/Core/AddisBlog.Application/bin/Debug/net7.0/AddisBlog.Application.pdb
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/AddisBlog/src/Core/AddisBlog.Application/obj/Debug/net7.0/AddisBlog.Application.csproj.AssemblyReference.cache
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/AddisBlog/src/Core/AddisBlog.Application/obj/Debug/net7.0/AddisBlog.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/AddisBlog/src/Core/AddisBlog.Application/obj/Debug/net7.0/AddisBlog.Application.AssemblyInfoInputs.cache
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/AddisBlog/src/Core/AddisBlog.Application/obj/Debug/net7.0/AddisBlog.Application.AssemblyInfo.cs
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/AddisBlog/src/Core/AddisBlog.Application/obj/Debug/net7.0/AddisBlog.Application.csproj.CoreCompileInputs.cache
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/AddisBlog/src/Core/AddisBlog.Application/obj/Debug/net7.0/AddisBlog.Application.dll
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/AddisBlog/src/Core/AddisBlog.Application/obj/Debug/net7.0/refint/AddisBlog.Application.dll
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/AddisBlog/src/Core/AddisBlog.Application/obj/Debug/net7.0/AddisBlog.Application.pdb
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/AddisBlog/src/Core/AddisBlog.Application/obj/Debug/net7.0/ref/AddisBlog.Application.dll
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/AddisBlog/src/Core/AddisBlog.Application/bin/Debug/net7.0/AddisBlog.Domain.dll
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/AddisBlog/src/Core/AddisBlog.Application/bin/Debug/net7.0/AddisBlog.Domain.pdb
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/AddisBlog/src/Core/AddisBlog.Application/obj/Debug/net7.0/AddisBlog.Application.csproj.CopyComplete

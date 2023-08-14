@@ -1,0 +1,199 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/AddisBlog/src/Presentation/AddisBlog.Api/AddisBlog.Api.csproj": {}
+  },
+  "projects": {
+    "/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/AddisBlog/src/Core/AddisBlog.Application/AddisBlog.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/AddisBlog/src/Core/AddisBlog.Application/AddisBlog.Application.csproj",
+        "projectName": "AddisBlog.Application",
+        "projectPath": "/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/AddisBlog/src/Core/AddisBlog.Application/AddisBlog.Application.csproj",
+        "packagesPath": "/home/yonatantesfaye/.nuget/packages/",
+        "outputPath": "/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/AddisBlog/src/Core/AddisBlog.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/yonatantesfaye/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/AddisBlog/src/Core/AddisBlog.Domain/AddisBlog.Domain.csproj": {
+                "projectPath": "/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/AddisBlog/src/Core/AddisBlog.Domain/AddisBlog.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/yonatantesfaye/.dotnet/sdk/7.0.306/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/AddisBlog/src/Core/AddisBlog.Domain/AddisBlog.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/AddisBlog/src/Core/AddisBlog.Domain/AddisBlog.Domain.csproj",
+        "projectName": "AddisBlog.Domain",
+        "projectPath": "/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/AddisBlog/src/Core/AddisBlog.Domain/AddisBlog.Domain.csproj",
+        "packagesPath": "/home/yonatantesfaye/.nuget/packages/",
+        "outputPath": "/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/AddisBlog/src/Core/AddisBlog.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/yonatantesfaye/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/yonatantesfaye/.dotnet/sdk/7.0.306/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/AddisBlog/src/Presentation/AddisBlog.Api/AddisBlog.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/AddisBlog/src/Presentation/AddisBlog.Api/AddisBlog.Api.csproj",
+        "projectName": "AddisBlog.Api",
+        "projectPath": "/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/AddisBlog/src/Presentation/AddisBlog.Api/AddisBlog.Api.csproj",
+        "packagesPath": "/home/yonatantesfaye/.nuget/packages/",
+        "outputPath": "/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/AddisBlog/src/Presentation/AddisBlog.Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/yonatantesfaye/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/home/yonatantesfaye/.dotnet/sdk/7.0.306/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/AddisBlog/src/Core/AddisBlog.Application/AddisBlog.Application.csproj": {
+                "projectPath": "/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/AddisBlog/src/Core/AddisBlog.Application/AddisBlog.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/yonatantesfaye/.dotnet/sdk/7.0.306/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/AddisBlog/src/Core/AddisBlog.Domain/bin/Debug/net7.0/AddisBlog.Domain.deps.json
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/AddisBlog/src/Core/AddisBlog.Domain/bin/Debug/net7.0/AddisBlog.Domain.dll
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/AddisBlog/src/Core/AddisBlog.Domain/bin/Debug/net7.0/AddisBlog.Domain.pdb
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/AddisBlog/src/Core/AddisBlog.Domain/obj/Debug/net7.0/AddisBlog.Domain.csproj.AssemblyReference.cache
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/AddisBlog/src/Core/AddisBlog.Domain/obj/Debug/net7.0/AddisBlog.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/AddisBlog/src/Core/AddisBlog.Domain/obj/Debug/net7.0/AddisBlog.Domain.AssemblyInfoInputs.cache
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/AddisBlog/src/Core/AddisBlog.Domain/obj/Debug/net7.0/AddisBlog.Domain.AssemblyInfo.cs
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/AddisBlog/src/Core/AddisBlog.Domain/obj/Debug/net7.0/AddisBlog.Domain.csproj.CoreCompileInputs.cache
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/AddisBlog/src/Core/AddisBlog.Domain/obj/Debug/net7.0/AddisBlog.Domain.dll
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/AddisBlog/src/Core/AddisBlog.Domain/obj/Debug/net7.0/refint/AddisBlog.Domain.dll
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/AddisBlog/src/Core/AddisBlog.Domain/obj/Debug/net7.0/AddisBlog.Domain.pdb
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/AddisBlog/src/Core/AddisBlog.Domain/obj/Debug/net7.0/ref/AddisBlog.Domain.dll

@@ -1,0 +1,6 @@
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/AddisBlog/test/AddisBlog.Architecture.Tests/bin/Debug/net7.0/CoverletSourceRootsMapping
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/AddisBlog/test/AddisBlog.Architecture.Tests/obj/Debug/net7.0/AddisBlog.Architecture.Tests.csproj.AssemblyReference.cache
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/AddisBlog/test/AddisBlog.Architecture.Tests/obj/Debug/net7.0/AddisBlog.Architecture.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/AddisBlog/test/AddisBlog.Architecture.Tests/obj/Debug/net7.0/AddisBlog.Architecture.Tests.AssemblyInfoInputs.cache
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/AddisBlog/test/AddisBlog.Architecture.Tests/obj/Debug/net7.0/AddisBlog.Architecture.Tests.AssemblyInfo.cs
+/home/yonatantesfaye/Documents/A2SV_dotnetLerningPhase/AddisBlog/test/AddisBlog.Architecture.Tests/obj/Debug/net7.0/AddisBlog.Architecture.Tests.csproj.CoreCompileInputs.cache

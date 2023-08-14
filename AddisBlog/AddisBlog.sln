@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{BE5F85C1-31A4-42FE-B85B-286CF78C10C0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{5CF97EA2-43A1-4936-8D09-C9C3A842D5CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddisBlog.Application", "src\Core\AddisBlog.Application\AddisBlog.Application.csproj", "{A90E9B4C-F252-43C8-8B5F-3252CBB29BA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddisBlog.Domain", "src\Core\AddisBlog.Domain\AddisBlog.Domain.csproj", "{23415091-EE3A-4A3B-9156-5F518D61132E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{9E55C874-AC33-4B8F-A632-CEBDE7EAB2D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddisBlog.Infrastructure", "src\Infrastructure\AddisBlog.Infrastructure\AddisBlog.Infrastructure.csproj", "{D5191070-C437-4E4A-B8E7-CF23D396EA07}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{36A1BDE2-6D92-45BA-8BCD-689BA86500AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddisBlog.Api", "src\Presentation\AddisBlog.Api\AddisBlog.Api.csproj", "{1D912CAF-9DAA-479A-A737-991CE155744C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A90E9B4C-F252-43C8-8B5F-3252CBB29BA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A90E9B4C-F252-43C8-8B5F-3252CBB29BA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A90E9B4C-F252-43C8-8B5F-3252CBB29BA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A90E9B4C-F252-43C8-8B5F-3252CBB29BA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23415091-EE3A-4A3B-9156-5F518D61132E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23415091-EE3A-4A3B-9156-5F518D61132E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23415091-EE3A-4A3B-9156-5F518D61132E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23415091-EE3A-4A3B-9156-5F518D61132E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5191070-C437-4E4A-B8E7-CF23D396EA07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5191070-C437-4E4A-B8E7-CF23D396EA07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5191070-C437-4E4A-B8E7-CF23D396EA07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5191070-C437-4E4A-B8E7-CF23D396EA07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D912CAF-9DAA-479A-A737-991CE155744C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D912CAF-9DAA-479A-A737-991CE155744C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D912CAF-9DAA-479A-A737-991CE155744C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D912CAF-9DAA-479A-A737-991CE155744C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5CF97EA2-43A1-4936-8D09-C9C3A842D5CB} = {BE5F85C1-31A4-42FE-B85B-286CF78C10C0}
+		{A90E9B4C-F252-43C8-8B5F-3252CBB29BA3} = {5CF97EA2-43A1-4936-8D09-C9C3A842D5CB}
+		{23415091-EE3A-4A3B-9156-5F518D61132E} = {5CF97EA2-43A1-4936-8D09-C9C3A842D5CB}
+		{9E55C874-AC33-4B8F-A632-CEBDE7EAB2D4} = {BE5F85C1-31A4-42FE-B85B-286CF78C10C0}
+		{D5191070-C437-4E4A-B8E7-CF23D396EA07} = {9E55C874-AC33-4B8F-A632-CEBDE7EAB2D4}
+		{36A1BDE2-6D92-45BA-8BCD-689BA86500AB} = {BE5F85C1-31A4-42FE-B85B-286CF78C10C0}
+		{1D912CAF-9DAA-479A-A737-991CE155744C} = {36A1BDE2-6D92-45BA-8BCD-689BA86500AB}
+	EndGlobalSection
+EndGlobal

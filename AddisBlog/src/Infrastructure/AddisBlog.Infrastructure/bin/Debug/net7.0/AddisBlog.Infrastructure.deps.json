@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "AddisBlog.Infrastructure/1.0.0": {
+        "dependencies": {
+          "AddisBlog.Application": "1.0.0"
+        },
+        "runtime": {
+          "AddisBlog.Infrastructure.dll": {}
+        }
+      },
+      "AddisBlog.Application/1.0.0": {
+        "dependencies": {
+          "AddisBlog.Domain": "1.0.0"
+        },
+        "runtime": {
+          "AddisBlog.Application.dll": {}
+        }
+      },
+      "AddisBlog.Domain/1.0.0": {
+        "runtime": {
+          "AddisBlog.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AddisBlog.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AddisBlog.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AddisBlog.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
